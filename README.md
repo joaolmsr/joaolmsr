@@ -1,6 +1,6 @@
 # 🤑 João Pedro
 
-Me chamo João, faço curso técnico profissionalizante em informática no Estado do Ceará. Atualmente busco aprofundar meu conhecimento em inteligêmcia artificial e front-end.
+Me chamo João, faço curso técnico profissionalizante em informática no Estado do Ceará. Atualmente busco aprofundar meu conhecimento em inteligência artificial e back-end.
 
    <p align="left">
       <a href="https://github.com/joaolmsr?tab=repositories">
