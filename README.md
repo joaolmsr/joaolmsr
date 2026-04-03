@@ -62,19 +62,21 @@ Me chamo João, faço curso técnico profissionalizante em informática no Estad
 ### 📊 Estatísticas
 
 <p>
+<div align="left">
+
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaolmsr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=joaolmsr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolmsr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolmsr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
+
+</div>
 
 </p>
